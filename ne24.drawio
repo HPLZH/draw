@@ -241,7 +241,7 @@
         <mxCell id="8mNXo8YSzwnF-AT6geSr-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="8mNXo8YSzwnF-AT6geSr-7" target="OKxPrB0xDgkwKKIO_z5v-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8mNXo8YSzwnF-AT6geSr-7" value="&lt;div&gt;信息中心&lt;/div&gt;&lt;div&gt;10.1.0.0/16&lt;/div&gt;&lt;div&gt;VLAN 3&lt;/div&gt;&lt;div&gt;dns&lt;/div&gt;" style="shape=mxgraph.cisco.computers_and_peripherals.workstation;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="8mNXo8YSzwnF-AT6geSr-7" value="&lt;div&gt;信息中心&lt;/div&gt;&lt;div&gt;10.192.0.0/10&lt;/div&gt;&lt;div&gt;VLAN 3&lt;/div&gt;&lt;div&gt;dns&lt;/div&gt;" style="shape=mxgraph.cisco.computers_and_peripherals.workstation;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="700" width="83" height="62" as="geometry" />
         </mxCell>
         <mxCell id="8mNXo8YSzwnF-AT6geSr-9" value="VLANIF 3&lt;div&gt;10.192.0.1/10&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
