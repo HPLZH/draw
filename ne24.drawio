@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OKxPrB0xDgkwKKIO_z5v-99" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="5" width="291" height="125" as="geometry" />
+          <mxGeometry x="60" y="5" width="291" height="135" as="geometry" />
         </mxCell>
         <mxCell id="OKxPrB0xDgkwKKIO_z5v-30" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="480" width="347" height="130" as="geometry" />
@@ -19,7 +19,7 @@
         <mxCell id="OKxPrB0xDgkwKKIO_z5v-33" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="137" y="430" width="590" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="OKxPrB0xDgkwKKIO_z5v-1" value="AR1-internet" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="OKxPrB0xDgkwKKIO_z5v-1" value="AR1-internet&lt;div&gt;10.128.0.1/10&lt;/div&gt;" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="497" y="40" width="78" height="53" as="geometry" />
         </mxCell>
         <mxCell id="OKxPrB0xDgkwKKIO_z5v-2" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -62,7 +62,7 @@
         <mxCell id="OKxPrB0xDgkwKKIO_z5v-14" value="AR4-core2" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="467" y="200" width="78" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="OKxPrB0xDgkwKKIO_z5v-15" value="AR2-dmz" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="OKxPrB0xDgkwKKIO_z5v-15" value="AR2-dmz&lt;div&gt;10.128.0.2/10&lt;/div&gt;" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="253" y="52.5" width="78" height="53" as="geometry" />
         </mxCell>
         <mxCell id="OKxPrB0xDgkwKKIO_z5v-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="OKxPrB0xDgkwKKIO_z5v-11" target="OKxPrB0xDgkwKKIO_z5v-13" edge="1">
@@ -229,22 +229,22 @@
         <mxCell id="8mNXo8YSzwnF-AT6geSr-4" value="VRRP VRID 4&lt;div&gt;10.0.1.2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="607" y="248" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8mNXo8YSzwnF-AT6geSr-5" value="VLANIF 2&lt;div&gt;VLAN 11-20&lt;/div&gt;&lt;div&gt;10.0.0.1/10&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="8mNXo8YSzwnF-AT6geSr-5" value="VLANIF 2&lt;div&gt;VLAN 11-18&lt;/div&gt;&lt;div&gt;10.0.0.1/10&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="22" y="238" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8mNXo8YSzwnF-AT6geSr-6" value="VLANIF 2&lt;div&gt;VLAN 11-20&lt;/div&gt;&lt;div&gt;10.0.0.2/10&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="8mNXo8YSzwnF-AT6geSr-6" value="VLANIF 2&lt;div&gt;VLAN 11-18&lt;/div&gt;&lt;div&gt;10.0.0.2/10&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="722" y="238" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c4X52kRVc_AipKpNaiow-1" value="VRRP VRID 5&lt;div&gt;10.192.1.1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="127" y="303" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c4X52kRVc_AipKpNaiow-2" value="VLANIF 3&lt;div&gt;VLAN 21-30&lt;/div&gt;&lt;div&gt;10.192.0.1/10&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="c4X52kRVc_AipKpNaiow-2" value="VLANIF 3&lt;div&gt;VLAN 21-28&lt;/div&gt;&lt;div&gt;10.192.0.1/10&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="17" y="293" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c4X52kRVc_AipKpNaiow-3" value="VRRP VRID 4&lt;div&gt;10.192.1.2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="607" y="303" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c4X52kRVc_AipKpNaiow-4" value="VLANIF 3&lt;div&gt;VLAN 21-30&lt;/div&gt;&lt;div&gt;10.192.0.2/10&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="c4X52kRVc_AipKpNaiow-4" value="VLANIF 3&lt;div&gt;VLAN 21-28&lt;/div&gt;&lt;div&gt;10.192.0.2/10&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="717" y="293" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
