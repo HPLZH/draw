@@ -253,6 +253,9 @@
         <mxCell id="WaT7aZ4GV9jZIhNz12hq-6" value="VLANIF 4&lt;div&gt;10.128.0.1/16&lt;/div&gt;&lt;div&gt;10.128.0.2/16&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="352" y="106.5" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sXXriGGngjyK85Kr_pVM-3" value="&lt;b&gt;防火墙&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="-40" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
