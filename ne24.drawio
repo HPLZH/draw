@@ -196,11 +196,11 @@
         <mxCell id="OKxPrB0xDgkwKKIO_z5v-108" value="Eth1&lt;div&gt;GE4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="480" y="230" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OKxPrB0xDgkwKKIO_z5v-112" value="&lt;div&gt;Eth3&lt;/div&gt;GE0/1&lt;div&gt;VLANIF 4&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.128.0.3/16&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="243.5" y="86.5" width="100" height="90" as="geometry" />
+        <mxCell id="OKxPrB0xDgkwKKIO_z5v-112" value="&lt;div&gt;Eth3&lt;/div&gt;GE0/1&lt;div&gt;VLANIF 4&lt;div&gt;10.128.0.3/16&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="235.5" y="43.5" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OKxPrB0xDgkwKKIO_z5v-113" value="&lt;div&gt;Eth4&lt;/div&gt;GE2/3&lt;div&gt;VLANIF 4&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.128.0.4/16&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="467" y="86.5" width="100" height="90" as="geometry" />
+        <mxCell id="OKxPrB0xDgkwKKIO_z5v-113" value="&lt;div&gt;Eth4&lt;/div&gt;GE2/3&lt;div&gt;VLANIF 4&lt;div&gt;10.128.0.4/16&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="477" y="43.5" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OKxPrB0xDgkwKKIO_z5v-114" value="&lt;div&gt;Eth2&lt;/div&gt;GE4/5&lt;div&gt;10.129.0.1/16&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="279.5" y="-16.5" width="100" height="60" as="geometry" />
