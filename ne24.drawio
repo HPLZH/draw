@@ -4,10 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sXXriGGngjyK85Kr_pVM-2" value="" style="whiteSpace=wrap;html=1;fillColor=#66ccff;dashed=1;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="sXXriGGngjyK85Kr_pVM-4" value="" style="whiteSpace=wrap;html=1;fillColor=#ffcccc;dashed=1;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-61.5" y="632" width="1110" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="sXXriGGngjyK85Kr_pVM-2" value="" style="whiteSpace=wrap;html=1;fillColor=#FF9999;dashed=1;strokeColor=#36393d;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="-40" width="390" height="151.5" as="geometry" />
         </mxCell>
-        <mxCell id="OKxPrB0xDgkwKKIO_z5v-99" value="" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;dashed=1;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="OKxPrB0xDgkwKKIO_z5v-99" value="" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;dashed=1;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-60.5" y="-40" width="291" height="151.5" as="geometry" />
         </mxCell>
         <mxCell id="OKxPrB0xDgkwKKIO_z5v-30" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;dashed=1;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -149,8 +152,8 @@
         <mxCell id="OKxPrB0xDgkwKKIO_z5v-71" value="http" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-28.5" y="-23.5" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OKxPrB0xDgkwKKIO_z5v-74" value="PC数量有限，每个部门用1台PC代替&lt;div&gt;&lt;div&gt;每个部门一个VLAN&lt;/div&gt;&lt;/div&gt;&lt;div&gt;各部门间无需互访&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-83" y="572" width="220" height="60" as="geometry" />
+        <mxCell id="OKxPrB0xDgkwKKIO_z5v-74" value="PC数量有限，每个部门用1台PC代替&lt;div&gt;&lt;div&gt;每个部门一个VLAN&lt;/div&gt;&lt;/div&gt;&lt;div&gt;各部门间无需互访&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="725" y="690" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OKxPrB0xDgkwKKIO_z5v-75" value="办公区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="263" y="535" width="60" height="30" as="geometry" />
@@ -255,6 +258,9 @@
         </mxCell>
         <mxCell id="sXXriGGngjyK85Kr_pVM-3" value="&lt;b&gt;防火墙&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="565" y="-40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sXXriGGngjyK85Kr_pVM-5" value="&lt;b&gt;用户层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="988.5" y="632" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
